@@ -13,14 +13,14 @@ O projeto deverá ser publicado em um repositório público no github.
   * Deve conter um README contendo instruções para executar o projeto e uma breve descrição das escolhas feitas dentro do projeto.
   * Será levado em consideração a clareza do código e boas práticas.
 
-* **Opcionais:
+* **Opcionais**:
 
   * Para a criação do visual, podem ser usados estilos autorais.
   * O uso da imagem das notícias que vem do Json é opcional, mas caso colocado deve ser analisado para que não impacte a usabilidade.
   * A aplicação conter testes unitários (preferencialmente TDD).
   * Demonstração de conhecimento da pirâmide de testes (Pode ser uma descrição no README).
 
-* **Informações Adicionais:
+* **Informações Adicionais**:
 
   * Api do The New York Times: https://developer.nytimes.com
   * A api usada será a de Top Stories: https://developer.nytimes.com/docs/top-stories-product/1/overview
