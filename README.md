@@ -1,5 +1,7 @@
 # Avaliação React Native Compasso
 
+## NÃO FAÇA FORK DESSE REPOSITÓRIO
+
 A aplicação será um portal de notícias utilizando React Native para a exibição de notícias de dois temas que estão dentro da api do THE NEW YORK TIMES.
 
 O projeto deverá ser publicado em um repositório público no github.
